@@ -8,7 +8,7 @@ Domain: UI/UX Design
 
 Duration: October to November 2024
 
-**OVERVIEW OF THE PROJECT**
+# OVERVIEW OF THE PROJECT
 
 **PROJECT: MOBILE APP WIREFRAMING**
 
@@ -36,6 +36,6 @@ Duration: October to November 2024
               
   After completing the sign-up, a screen appears confirming successful registration.
 
-**SCREENSHOT**
+# **SCREENSHOT**
 
 ![Screenshot 2024-11-12 004724](https://github.com/user-attachments/assets/53573dd3-6460-423a-b5a6-3a8f79e56637)
